@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A4_CalculadoraRadioB</string>
+    <string name="numero1">Ingreso numero 1</string>
+    <string name="numero2">Ingrese numero 2</string>
+    <string name="operacion">Seleccione el metodo de la operacion</string>
+    <string name="suma">Sumar</string>
+    <string name="resta">Restar</string>
+    <string name="operar">Operar</string>
+</resources>
